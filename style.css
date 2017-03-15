@@ -1,0 +1,13 @@
+body{
+  font-family: calibri;
+}
+
+h1{
+  text-align: center;
+}
+
+#chapitre {
+  width: 600px;
+  margin: auto;
+  text-align: center;
+}
